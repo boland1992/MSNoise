@@ -10,7 +10,7 @@ echo $DATE
 
 java -jar 'geonet.jar' -s "NZ..AZ." -b """$DATE" -d 1d  -t ms 
 
-
+python BUD.py
 
 
 

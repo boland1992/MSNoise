@@ -2,8 +2,6 @@
 
 ./calldata #call data from geonet server 
 
-python BUD.py # convert to BUD format
-
 cd ..; cd program
 
 python 01.scan_archive.py

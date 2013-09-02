@@ -10,5 +10,7 @@ echo $DATE
 
 java -jar 'geonet.jar' -s "NZ..AZ." -b """$DATE" -d 1d  -t ms 
 
-rm GeoNetCWBQuery-4.0.2-bin.jar?version=1
+python BUD.py
+
+
 

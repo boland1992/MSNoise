@@ -2,7 +2,7 @@
 
 ./calldata #call data from geonet server 
 
-cd ..; cd program;
+cd ..; cd program
 
 python 01.scan_archive.py
 python 02.new_jobs.py
